@@ -1,0 +1,17 @@
+.title {
+  color: #fff;
+}
+
+.container {
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.links {
+  display: flex;
+  gap: 16px;
+}
